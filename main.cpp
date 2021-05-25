@@ -20,7 +20,6 @@ int gcd(int a, int b){
 int main() {
     int a;
     int b;
-    int d;
 
 //  block to collect numbers for GCD calculation
     std::cout << "Please enter value A: ";
